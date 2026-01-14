@@ -1,0 +1,22 @@
+{
+  "name": "mobile-extension",
+  "version": "0.0.1",
+  "description": "A Microsoft MakeCode extension providing mobile-friendly blocks for vibration, screen size, and keyboard events.",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md"
+  ],
+  "testFiles": [
+    "test.ts"
+  ],
+  "supportedTargets": [
+    "arcade",
+    "microbit",
+    "maker"
+  ],
+  "preferredEditor": "tsprj"
+}
